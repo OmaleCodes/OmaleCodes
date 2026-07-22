@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm PHILIP MOSES OMALE</h1>
-<h3 align="center">A passionate Electrical Electronics Engineering in Field of AI/Robotics Engineer from Nigeria</h3>
-
+<h3 align="center">A passionate Electrical Electronics Engineering Student in the Field of AI/Robotics Engineer from Nigeria</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omale&label=Profile%20views&color=0e75b6&style=flat" alt="omale" /> </p>
 
 <p align="left"> <a href="https://twitter.com/omale_3" target="blank"><img src="https://img.shields.io/twitter/follow/omale_3?logo=twitter&style=for-the-badge" alt="omale_3" /></a> </p>
